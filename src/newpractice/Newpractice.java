@@ -17,6 +17,7 @@ public class Newpractice {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("helloworld");
+        System.out.println("big inclass");
     }
     
 }
